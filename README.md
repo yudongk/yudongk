@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 
 - I'm working in Cloud Platform Engineer team under ETS
-- 🔭 I’m currently working on Chef, Azure and Elk
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Chef, Azure and Terraform
