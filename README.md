@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Chef, Azure and Elk
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Chef, Azure and Terraform
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
